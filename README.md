@@ -22,4 +22,4 @@ This is a Django-based web application for booking travel options such as flight
 
 ```bash
 git clone https://github.com/AnikettYadavv/Travel-Booking-Application.git
-cd travel-booking-application
+cd t\TraveLBookingApplication
