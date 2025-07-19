@@ -1,6 +1,5 @@
 asgiref==3.6.0
-
-
-Python==3.0
-Django>=3.0
-Pillow
+python==3.0
+django>=3.0
+pillow
+mysqlclient
